@@ -1,4 +1,4 @@
-## igraphhack
+##igraphhack
 #Modification of the plotting code in the igraph R package to accomodate multiple arrow size settings.
 
 By default igraph.plot will only take the first element of a vector for arrow.size and arrow.width arguments. 
